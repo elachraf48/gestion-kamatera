@@ -32,7 +32,7 @@ This tool combines automation where possible with guided manual steps where need
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/smart-kamatera-manager.git
+   git clone https://github.com/elachraf48/smart-kamatera-manager.git
    cd smart-kamatera-manager
 2. **Install dependencies
 
